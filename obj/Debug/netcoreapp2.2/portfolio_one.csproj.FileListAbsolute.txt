@@ -1,0 +1,14 @@
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\asp.net_core\asp_mvc_one\portfolio_one\bin\Debug\netcoreapp2.2\portfolio_one.deps.json
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\asp.net_core\asp_mvc_one\portfolio_one\bin\Debug\netcoreapp2.2\portfolio_one.runtimeconfig.json
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\asp.net_core\asp_mvc_one\portfolio_one\bin\Debug\netcoreapp2.2\portfolio_one.runtimeconfig.dev.json
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\asp.net_core\asp_mvc_one\portfolio_one\bin\Debug\netcoreapp2.2\portfolio_one.dll
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\asp.net_core\asp_mvc_one\portfolio_one\bin\Debug\netcoreapp2.2\portfolio_one.pdb
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\asp.net_core\asp_mvc_one\portfolio_one\obj\Debug\netcoreapp2.2\portfolio_one.csprojAssemblyReference.cache
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\asp.net_core\asp_mvc_one\portfolio_one\obj\Debug\netcoreapp2.2\portfolio_one.csproj.CoreCompileInputs.cache
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\asp.net_core\asp_mvc_one\portfolio_one\obj\Debug\netcoreapp2.2\portfolio_one.RazorAssemblyInfo.cache
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\asp.net_core\asp_mvc_one\portfolio_one\obj\Debug\netcoreapp2.2\portfolio_one.RazorAssemblyInfo.cs
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\asp.net_core\asp_mvc_one\portfolio_one\obj\Debug\netcoreapp2.2\portfolio_one.AssemblyInfoInputs.cache
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\asp.net_core\asp_mvc_one\portfolio_one\obj\Debug\netcoreapp2.2\portfolio_one.AssemblyInfo.cs
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\asp.net_core\asp_mvc_one\portfolio_one\obj\Debug\netcoreapp2.2\portfolio_one.RazorTargetAssemblyInfo.cache
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\asp.net_core\asp_mvc_one\portfolio_one\obj\Debug\netcoreapp2.2\portfolio_one.dll
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\asp.net_core\asp_mvc_one\portfolio_one\obj\Debug\netcoreapp2.2\portfolio_one.pdb
